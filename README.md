@@ -72,8 +72,11 @@ admetrics-bot/
 📊 Report:
 
 Campaign: Test Campaign
+
 Clicks: 123
+
 Impressions: 4567
+
 Cost: $78.90
 
 ---
