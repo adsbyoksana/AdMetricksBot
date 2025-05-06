@@ -1,0 +1,4 @@
+{
+  "metrics": ["clicks", "impressions", "cost"],
+  "time_range": "LAST_7_DAYS"
+}
