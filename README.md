@@ -51,7 +51,7 @@ admetrics-bot/
    pip install -r requirements.txt
    ```
 
-4.  Create a .env file in the config/ folder with the following content:
+4. Create a .env file in the config/ folder with the following content:
 
    ```
    BOT_TOKEN=your_telegram_bot_token
